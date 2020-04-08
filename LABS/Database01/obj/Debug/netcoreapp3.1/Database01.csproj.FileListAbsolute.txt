@@ -1,0 +1,17 @@
+C:\Users\perko\ista421\LABS\Database01\obj\Debug\netcoreapp3.1\Database01.csprojAssemblyReference.cache
+C:\Users\perko\ista421\LABS\Database01\obj\Debug\netcoreapp3.1\Database01.AssemblyInfoInputs.cache
+C:\Users\perko\ista421\LABS\Database01\obj\Debug\netcoreapp3.1\Database01.AssemblyInfo.cs
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\Database01.exe
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\Database01.deps.json
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\Database01.runtimeconfig.json
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\Database01.runtimeconfig.dev.json
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\Database01.dll
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\Database01.pdb
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\perko\ista421\LABS\Database01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\perko\ista421\LABS\Database01\obj\Debug\netcoreapp3.1\Database01.csproj.CopyComplete
+C:\Users\perko\ista421\LABS\Database01\obj\Debug\netcoreapp3.1\Database01.dll
+C:\Users\perko\ista421\LABS\Database01\obj\Debug\netcoreapp3.1\Database01.pdb

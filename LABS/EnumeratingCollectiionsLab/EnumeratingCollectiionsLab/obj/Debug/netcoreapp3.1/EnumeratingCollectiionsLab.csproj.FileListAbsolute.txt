@@ -1,0 +1,11 @@
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\bin\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.exe
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\bin\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.deps.json
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\bin\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.runtimeconfig.json
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\bin\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.runtimeconfig.dev.json
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\bin\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.dll
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\bin\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.pdb
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\obj\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.csprojAssemblyReference.cache
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\obj\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.AssemblyInfoInputs.cache
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\obj\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.AssemblyInfo.cs
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\obj\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.dll
+C:\Users\perko\ista421\LABS\EnumeratingCollectiionsLab\EnumeratingCollectiionsLab\obj\Debug\netcoreapp3.1\EnumeratingCollectiionsLab.pdb

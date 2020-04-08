@@ -1,0 +1,11 @@
+C:\Users\perko\ista421\LABS\lab4-CH20\bin\Debug\netcoreapp3.1\lab4-CH20.exe
+C:\Users\perko\ista421\LABS\lab4-CH20\bin\Debug\netcoreapp3.1\lab4-CH20.deps.json
+C:\Users\perko\ista421\LABS\lab4-CH20\bin\Debug\netcoreapp3.1\lab4-CH20.runtimeconfig.json
+C:\Users\perko\ista421\LABS\lab4-CH20\bin\Debug\netcoreapp3.1\lab4-CH20.runtimeconfig.dev.json
+C:\Users\perko\ista421\LABS\lab4-CH20\bin\Debug\netcoreapp3.1\lab4-CH20.dll
+C:\Users\perko\ista421\LABS\lab4-CH20\bin\Debug\netcoreapp3.1\lab4-CH20.pdb
+C:\Users\perko\ista421\LABS\lab4-CH20\obj\Debug\netcoreapp3.1\lab4-CH20.csprojAssemblyReference.cache
+C:\Users\perko\ista421\LABS\lab4-CH20\obj\Debug\netcoreapp3.1\lab4-CH20.AssemblyInfoInputs.cache
+C:\Users\perko\ista421\LABS\lab4-CH20\obj\Debug\netcoreapp3.1\lab4-CH20.AssemblyInfo.cs
+C:\Users\perko\ista421\LABS\lab4-CH20\obj\Debug\netcoreapp3.1\lab4-CH20.dll
+C:\Users\perko\ista421\LABS\lab4-CH20\obj\Debug\netcoreapp3.1\lab4-CH20.pdb
