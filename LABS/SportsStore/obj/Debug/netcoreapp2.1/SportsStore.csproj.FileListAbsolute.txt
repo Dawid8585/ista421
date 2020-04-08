@@ -26,4 +26,5 @@ C:\Users\perko\ista421\LABS\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shar
 C:\Users\perko\ista421\LABS\SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\perko\ista421\LABS\SportsStore\bin\Debug\netcoreapp2.1\libman.json
 C:\Users\perko\ista421\LABS\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
-C:\Users\perko\ista421\LABS\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\perko\ista421\LABS\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\perko\ista421\LABS\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs

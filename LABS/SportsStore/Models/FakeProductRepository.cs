@@ -7,7 +7,8 @@ namespace SportsStore.Models
         public IQueryable<Product> Products => new List<Product> {
            new Product { Name = "Football", Price = 25 },
            new Product { Name = "Surf board", Price = 179 },
-           new Product { Name = "Running shoes", Price = 95 }
+           new Product { Name = "Running shoes", Price = 95 },
+           new Product { Name = "Console", Price = 200 }
         }.AsQueryable<Product>();
         
     }

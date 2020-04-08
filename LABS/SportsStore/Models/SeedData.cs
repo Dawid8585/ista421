@@ -30,7 +30,7 @@ namespace SportsStore.Models
                 },
                 new Product
                 {
-                    Name = "Soccer Ball",
+                    Name = "Xbox Ball",
                     Description = "FIFA-approved size and weight",
                     Category = "Soccer",
                     Price = 19.50m
@@ -76,7 +76,29 @@ namespace SportsStore.Models
                     Description = "Gold-plated, diamond-studded King",
                     Category = "Chess",
                     Price = 1200
+                },
+                new Product
+                {
+                    Name = "Nintando WII",
+                    Description = "Gold-plated, diamond-studded King",
+                    Category = "Console",
+                    Price = 1800
+                },
+                new Product
+                {
+                    Name = "Play-Station",
+                    Description = "Gold-plated, diamond-studded King",
+                    Category = "Console",
+                    Price = 1800
+                },
+                new Product
+                {
+                    Name = "CellPhone",
+                    Description = "A phone boy",
+                    Category = "Console",
+                    Price = 3000
                 }
+
                 );
                  context.SaveChanges();
             }

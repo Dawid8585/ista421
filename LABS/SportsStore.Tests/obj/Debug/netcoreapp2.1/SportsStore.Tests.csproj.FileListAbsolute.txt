@@ -18,3 +18,4 @@ C:\Users\perko\ista421\LABS\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStor
 C:\Users\perko\ista421\LABS\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.dll
 C:\Users\perko\ista421\LABS\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.pdb
 C:\Users\perko\ista421\LABS\SportsStore.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\perko\ista421\LABS\SportsStore.Tests\bin\Debug\netcoreapp2.1\libman.json

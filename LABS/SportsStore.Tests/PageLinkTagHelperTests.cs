@@ -46,6 +46,7 @@ namespace SportsStore.Tests
                 (cache, encoder) => Task.FromResult(content.Object));
             // Act
             helper.Process(ctx, output);
+
             // Assert
             Assert.Equal(@"<a href=""Test/Page1"">1</a>"
                 + @"<a href=""Test/Page2"">2</a>"
