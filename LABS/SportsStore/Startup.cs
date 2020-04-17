@@ -22,7 +22,11 @@ namespace SportsStore
             options.UseSqlServer(
             Configuration["Data:SportStoreProducts:ConnectionString"]));
             services.AddTransient<IProductRepository, EFProductRepository>();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddMvc();
+            services.AddMemoryCache();
+            services.AddSession();
         }
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
@@ -30,6 +34,7 @@ namespace SportsStore
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseMvc(routes => {
                 routes.MapRoute(
                 name: null,
@@ -65,7 +70,7 @@ namespace SportsStore
                     action = "List",
                     productPage = 1
                 });
-
+    
                 routes.MapRoute(name: null, template: "{controller}/{action}/{id?}");
             });
             SeedData.EnsurePopulated(app);
